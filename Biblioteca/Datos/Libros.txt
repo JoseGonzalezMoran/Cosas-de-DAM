@@ -1,2 +1,0 @@
-Titulo = Libro 4; Categoria= Romance
-Titulo = libro 4; Categoria= terror
